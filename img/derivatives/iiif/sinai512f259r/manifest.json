@@ -1,0 +1,72 @@
+---
+added: 2025-05-19 11&#58;49&#58;36.523673
+thumbnail: https://nodage.github.io/EPPE/img/derivatives/iiif/sinai512f259r/Sinai512f259r/full/120,/0/default.jpg
+title: Sinai512f259r
+user: nodage
+---
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://nodage.github.io/EPPE/img/derivatives/iiif/sinai512f259r/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Sinai512f259r"
+    ]
+  },
+  "summary": {
+    "en": [
+      ""
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://nodage.github.io/EPPE/img/derivatives/iiif/sinai512f259r/canvas/sinai512f259r-1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Sinai512f259r"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://nodage.github.io/EPPE/img/derivatives/iiif/sinai512f259r/Sinai512f259r/full/120,/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 4849,
+      "width": 3834,
+      "items": [
+        {
+          "id": "https://nodage.github.io/EPPE/img/derivatives/iiif/sinai512f259r/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nodage.github.io/EPPE/img/derivatives/iiif/sinai512f259r/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nodage.github.io/EPPE/img/derivatives/iiif/sinai512f259r/Sinai512f259r/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4849,
+                "width": 3834,
+                "service": [
+                  {
+                    "id": "https://nodage.github.io/EPPE/img/derivatives/iiif/sinai512f259r/Sinai512f259r",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://nodage.github.io/EPPE/img/derivatives/iiif/sinai512f259r/canvas/sinai512f259r-1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
