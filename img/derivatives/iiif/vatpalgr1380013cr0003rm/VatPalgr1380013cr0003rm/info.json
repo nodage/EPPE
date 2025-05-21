@@ -1,0 +1,70 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://nodage.github.io/EPPE/img/derivatives/iiif/vatpalgr1380013cr0003rm//VatPalgr1380013cr0003rm",
+  "height": 1787,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 447,
+      "width": 300
+    },
+    {
+      "height": 223,
+      "width": 150
+    },
+    {
+      "height": 112,
+      "width": 75
+    },
+    {
+      "height": 56,
+      "width": 38
+    },
+    {
+      "height": 28,
+      "width": 19
+    },
+    {
+      "height": 14,
+      "width": 9
+    },
+    {
+      "height": 7,
+      "width": 5
+    },
+    {
+      "height": 3,
+      "width": 2
+    },
+    {
+      "height": 2,
+      "width": 1
+    },
+    {
+      "height": 1,
+      "width": 1
+    }
+  ],
+  "tiles": [
+    {
+      "height": 512,
+      "scaleFactors": [
+        1,
+        2
+      ],
+      "width": 512
+    }
+  ],
+  "width": 1201
+}
