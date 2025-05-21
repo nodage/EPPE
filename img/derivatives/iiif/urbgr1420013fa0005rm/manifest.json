@@ -1,0 +1,72 @@
+---
+added: 2025-05-21 19&#58;00&#58;51.157461
+thumbnail: https://nodage.github.io/EPPE/img/derivatives/iiif/urbgr1420013fa0005rm/Urbgr1420013fa0005rm/full/172,/0/default.jpg
+title: Urb.gr.142_0013_fa_0005r_m
+user: nodage
+---
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://nodage.github.io/EPPE/img/derivatives/iiif/urbgr1420013fa0005rm/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Urb.gr.142_0013_fa_0005r_m"
+    ]
+  },
+  "summary": {
+    "en": [
+      ""
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://nodage.github.io/EPPE/img/derivatives/iiif/urbgr1420013fa0005rm/canvas/urbgr1420013fa0005rm-1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Urb.gr.142_0013_fa_0005r_m"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://nodage.github.io/EPPE/img/derivatives/iiif/urbgr1420013fa0005rm/Urbgr1420013fa0005rm/full/172,/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 967,
+      "width": 687,
+      "items": [
+        {
+          "id": "https://nodage.github.io/EPPE/img/derivatives/iiif/urbgr1420013fa0005rm/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nodage.github.io/EPPE/img/derivatives/iiif/urbgr1420013fa0005rm/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://nodage.github.io/EPPE/img/derivatives/iiif/urbgr1420013fa0005rm/Urbgr1420013fa0005rm/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 967,
+                "width": 687,
+                "service": [
+                  {
+                    "id": "https://nodage.github.io/EPPE/img/derivatives/iiif/urbgr1420013fa0005rm/Urbgr1420013fa0005rm",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://nodage.github.io/EPPE/img/derivatives/iiif/urbgr1420013fa0005rm/canvas/urbgr1420013fa0005rm-1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
